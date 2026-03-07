@@ -1,30 +1,114 @@
-<h1 align="center">Hi 👋, I'm Jahja Nur Zulbeari</h1>
-<h3 align="center">Driven by a love for AI and web development, crafting tomorrow's digital landscape.</h3>
+<div align="center">
 
+<br/>
 
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=jahjanur&label=Profile%20views&color=0e75b6&style=flat" alt="jahjanur" /> </p>
+# Jahja Nur Zulbeari
 
-- 🔭 I’m currently working on [ePage Digital]([https://eps](https://epage.digital))
+**Founder · Serial Entrepreneur · Investor**
 
-- 🌱 I’m currently learning **Python**
+*Building companies, backing visionaries, shaping the digital economy.*
 
-- 👨‍💻 All of my projects are available at [https://jahjanur.github.io/PersonalWebsite/](https://jahjanur.github.io/PersonalWebsite/)
+<br/>
 
-- 💬 Ask me about **React.js**
+[![Typing SVG](https://readme-typing-svg.demolab.com?font=Cormorant+Garamond&size=20&duration=3000&pause=1500&color=C9A96E&center=true&vCenter=true&width=600&lines=Founder+%26+CEO+%40+Zulbera;Serial+Entrepreneur+%26+Investor;Shareholder+in+Startups+Across+Industries;Turning+Vision+into+Ventures)](https://git.io/typing-svg)
 
-- 📫 How to reach me **jahjanur@epage.digital**
+<br/>
 
-<h3 align="left">Connect with me:</h3>
-<p align="left">
-<a href="https://linkedin.com/in/jahja nur zulbeari" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="jahja nur zulbeari" height="30" width="40" /></a>
-<a href="https://instagram.com/@jahjanur" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="@jahjanur" height="30" width="40" /></a>
-</p>
+---
 
-<h3 align="left">Languages and Tools:</h3>
-<p align="left"> <a href="https://getbootstrap.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/bootstrap/bootstrap-plain-wordmark.svg" alt="bootstrap" width="40" height="40"/> </a> <a href="https://www.cprogramming.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/c/c-original.svg" alt="c" width="40" height="40"/> </a> <a href="https://www.w3schools.com/cpp/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/cplusplus/cplusplus-original.svg" alt="cplusplus" width="40" height="40"/> </a> <a href="https://www.w3schools.com/css/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original-wordmark.svg" alt="css3" width="40" height="40"/> </a> <a href="https://www.figma.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/figma/figma-icon.svg" alt="figma" width="40" height="40"/> </a> <a href="https://www.adobe.com/in/products/illustrator.html" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/adobe_illustrator/adobe_illustrator-icon.svg" alt="illustrator" width="40" height="40"/> </a> <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" alt="javascript" width="40" height="40"/> </a> <a href="https://www.mysql.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original-wordmark.svg" alt="mysql" width="40" height="40"/> </a> <a href="https://www.photoshop.com/en" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/photoshop/photoshop-line.svg" alt="photoshop" width="40" height="40"/> </a> <a href="https://www.postgresql.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/postgresql/postgresql-original-wordmark.svg" alt="postgresql" width="40" height="40"/> </a> <a href="https://reactjs.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original-wordmark.svg" alt="react" width="40" height="40"/> </a> <a href="https://sass-lang.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/sass/sass-original.svg" alt="sass" width="40" height="40"/> </a> <a href="https://www.adobe.com/products/xd.html" target="_blank" rel="noreferrer"> <img src="https://cdn.worldvectorlogo.com/logos/adobe-xd.svg" alt="xd" width="40" height="40"/> </a> </p>
+</div>
 
-<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=jahjanur&show_icons=true&locale=en&layout=compact" alt="jahjanur" /></p>
+## About
 
-<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=jahjanur&show_icons=true&locale=en" alt="jahjanur" /></p>
+I'm a **founder, investor, and builder** with a track record of launching and scaling ventures across tech, digital products, and beyond. I don't just write code — I build companies.
 
-<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=jahjanur&" alt="jahjanur" /></p>
+Currently leading **Zulbera** as Founder & CEO, while holding active stakes and advisory roles across a portfolio of startups and emerging businesses. My edge is sitting at the intersection of **technology**, **design thinking**, and **business strategy** — turning raw ideas into market-ready companies.
+
+> *"Most people wait for the right moment. I build it."*
+
+<br/>
+
+## What I Do
+
+🏗️ &nbsp;**Found** — Ideate, assemble teams, and launch ventures from 0 to 1  
+📈 &nbsp;**Invest** — Active shareholder in startups spanning tech, SaaS, and digital media  
+🤝 &nbsp;**Advise** — Strategic counsel for early-stage founders on product, growth, and fundraising  
+⚙️ &nbsp;**Build** — Hands-on with technology; React.js, AI integrations, and full-stack architecture  
+🌍 &nbsp;**Scale** — Turn traction into sustainable, market-leading businesses
+
+<br/>
+
+---
+
+## Ventures & Portfolio
+
+<div align="center">
+
+| Company | Role | Focus |
+|---|---|---|
+| **Zulbera** | Founder & CEO | Digital Innovation & Technology |
+| **Epage Digital** | Founder (Ex) | Web Development & Digital Solutions |
+| *Portfolio companies* | Shareholder / Investor | SaaS · Tech · Media |
+
+</div>
+
+<br/>
+
+---
+
+## Stack & Craft
+
+I build what I envision. Technology is a tool — and I use it fluently.
+
+<div align="center">
+
+![React](https://img.shields.io/badge/React-%2320232a.svg?style=flat-square&logo=react&logoColor=%2361DAFB)
+![JavaScript](https://img.shields.io/badge/JavaScript-%23323330.svg?style=flat-square&logo=javascript&logoColor=%23F7DF1E)
+![Python](https://img.shields.io/badge/Python-3670A0?style=flat-square&logo=python&logoColor=ffdd54)
+![PostgreSQL](https://img.shields.io/badge/PostgreSQL-%23316192.svg?style=flat-square&logo=postgresql&logoColor=white)
+![Figma](https://img.shields.io/badge/Figma-%23F24E1E.svg?style=flat-square&logo=figma&logoColor=white)
+![MySQL](https://img.shields.io/badge/MySQL-%2300f.svg?style=flat-square&logo=mysql&logoColor=white)
+
+</div>
+
+<br/>
+
+---
+
+## GitHub Activity
+
+<div align="center">
+
+[![GitHub Streak](https://streak-stats.demolab.com?user=jahjanur&theme=dark&hide_border=true&background=0a0a0a&ring=C9A96E&fire=C9A96E&currStreakLabel=C9A96E&sideLabels=888888&dates=888888&sideNums=C9A96E&currStreakNum=ffffff)](https://git.io/streak-stats)
+
+</div>
+
+<br/>
+
+---
+
+## Let's Connect
+
+I'm always open to conversations about **investment opportunities**, **partnerships**, **co-founding**, or simply connecting with fellow builders and visionaries.
+
+<div align="center">
+
+<br/>
+
+[![Portfolio](https://img.shields.io/badge/Portfolio-000000?style=for-the-badge&logo=safari&logoColor=C9A96E)](https://jahjanur.github.io/PersonalWebsite/)
+&nbsp;
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0a0a0a?style=for-the-badge&logo=linkedin&logoColor=C9A96E)](https://linkedin.com/in/jahja-nur-zulbeari)
+&nbsp;
+[![Instagram](https://img.shields.io/badge/Instagram-0a0a0a?style=for-the-badge&logo=instagram&logoColor=C9A96E)](https://instagram.com/jahjanur)
+&nbsp;
+[![Email](https://img.shields.io/badge/Email-0a0a0a?style=for-the-badge&logo=gmail&logoColor=C9A96E)](mailto:jahjanur@zulbera.com)
+
+<br/><br/>
+
+**`@ Zulbera — Beyond this era.`**
+
+<br/>
+
+![Profile Views](https://komarev.com/ghpvc/?username=jahjanur&label=Profile+Views&color=C9A96E&style=flat-square)
+
+</div>
